@@ -1,3 +1,4 @@
-# CSharp-dotNET
+# C--NET
 
-1. Frontend
+1. Frontend Development
+2. Backend Development
